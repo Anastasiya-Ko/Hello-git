@@ -2,6 +2,7 @@ public class WhoAmI {
     public static void main(String[] args) {
         System.out.println("Я мужчина");
         Woman.sayHello();
+        System.out.println("Они созданы друг для друга");
     }
 
 }
