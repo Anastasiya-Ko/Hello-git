@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SANN" target="1.5" />
+      <module name="SANN" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

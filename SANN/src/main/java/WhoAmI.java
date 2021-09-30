@@ -1,11 +1,12 @@
 public class WhoAmI {
     public static void main(String[] args) {
         System.out.println("Я мужчина");
-
+        Woman.sayHello();
     }
 
-    }
 }
+
+
 class Man {
     String name;
     private int age;
@@ -18,4 +19,4 @@ class Man {
         this.age = age;
     }
 }
-}
+
